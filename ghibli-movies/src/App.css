@@ -1,0 +1,15 @@
+.list-cards {
+  width: 30%;
+  border: 1px solid black;
+  text-align:center;
+  margin: 1%;
+  background-color:lightblue;
+  border-radius: 10px;
+
+}
+.list-container{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+}
