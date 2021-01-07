@@ -16,7 +16,7 @@ const FilmList = () => {
     }, [])
     return (
         <div>
-            <h2>Studio Ghibli Films</h2>
+            <h1>Studio Ghibli Films</h1>
             <div className='list-container'>
                 {List.map(movie => {
                     return(
